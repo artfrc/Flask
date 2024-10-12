@@ -1,7 +1,7 @@
 # API de Gerenciamento de Tarefas
 
 <p align="center">
-Projeto de uma API com Flask de um gerenciamento de tarefas
+Projeto de uma API CRUD com Flask de um gerenciamento de tarefas, com testes feito com Pytest
 </p>
 
 <p align="center">
